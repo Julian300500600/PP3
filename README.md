@@ -114,7 +114,14 @@ For more detailed information on SVG structure and elements, you can refer to th
 <details>
     <summary>Your SVG Code</summary>
     <code>
-    ......
+    Text           = ![image](https://github.com/user-attachments/assets/bbdc19f5-f09c-43c6-a48f-58249ddf8748)
+    Complex shapes = ![image](https://github.com/user-attachments/assets/a09ef09a-a0e8-44e3-a620-86021a9dcd8b)
+    Rectangles     = ![image](https://github.com/user-attachments/assets/bef5b7fd-72c0-4700-8cdb-3b1abecbd088)
+    Circile        = ![image](https://github.com/user-attachments/assets/0117fabc-9363-4ab5-b81f-0ed4b40d1a71)
+
+
+
+
     </code>
 </details>
 
@@ -126,18 +133,18 @@ It is an easy and lightweight syntax, to instruct a display software to render t
 
 <details>
     <summary>How does prepending hashes (<code>#</code>) affect the display?</summary>
-    ......
+    Mit dem hashtag Zeichen wir der Text zur Überschrift in verschieden Gruppen H1/H2/H3 gegliedert.
 </details>
 <details>
     <summary>How do you mark italic or bold font?</summary>
     <code>
-    ......
+    Italic werden mit je einem * am Anfang und Ende geschrieben. Blod fonts mit je doppeltem *.
     </code>
 </details>
 <details>
     <summary>Which different ways are there to generate listings and tables?</summary>
     <code>
-    ......
+     Man kann "Ordered List" oder "Unordered List" erstellen, indem man mit "1. " durchnummeriert oder mit "- " Listen erstellt.    
     </code>
 </details>
 
