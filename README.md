@@ -114,10 +114,53 @@ For more detailed information on SVG structure and elements, you can refer to th
 <details>
     <summary>Your SVG Code</summary>
     <code>
-    Text           = ![image](https://github.com/user-attachments/assets/bbdc19f5-f09c-43c6-a48f-58249ddf8748)
-    Complex shapes = ![image](https://github.com/user-attachments/assets/a09ef09a-a0e8-44e3-a620-86021a9dcd8b)
-    Rectangles     = ![image](https://github.com/user-attachments/assets/bef5b7fd-72c0-4700-8cdb-3b1abecbd088)
-    Circile        = ![image](https://github.com/user-attachments/assets/0117fabc-9363-4ab5-b81f-0ed4b40d1a71)
+    Text           = 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     version="1.1"
+     width="800mm" height="600mm"
+     viewBox="-400 -300 800 600">
+  <title>Sample SVG</title>
+  <desc>A simple example of an SVG file structure.</desc>
+  <text x="-200" y="300" front-family="Verdana" front-size="65" fill="blue"> Hallo!@#$%_ </text>
+</svg>
+         
+    Complex shapes = 
+         <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     version="1.1"
+     width="800mm" height="600mm"
+     viewBox="-400 -300 800 600">
+  <title>Complex shapes</title>
+  <desc>A simple example of an SVG file structure.</desc>
+<rect x="300" y="-200" width="398" height="398" fill="non" stroke="blue"/>
+<path d="M 100 300 L 200 100 L 100 200 z" stroke="blue" stroke-width="10"  fill="red"/>
+</svg>
+
+
+    Rectangles     = 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     version="1.1"
+     width="800mm" height="600mm"
+     viewBox="-400 -300 800 600">
+  <title>Rectangles</title>
+  <desc>A simple example of an SVG file structure.</desc>
+  <rect x="0" y="0" width="20" height="100" fill="red" />
+</svg>
+
+
+    Circile        = 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     version="1.1"
+     width="800mm" height="600mm"
+     viewBox="-400 -300 800 600">
+  <title>Rectangles</title>
+  <desc>A simple example of an SVG file structure.</desc>
+  <circle cx="0" cy="0" r="100" fill="red" />
+</svg>
+
 
 
 
