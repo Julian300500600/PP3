@@ -113,59 +113,13 @@ For more detailed information on SVG structure and elements, you can refer to th
 
 <details>
     <summary>Your SVG Code</summary>
-    <code>
-    Text           = 
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-     version="1.1"
-     width="800mm" height="600mm"
-     viewBox="-400 -300 800 600">
-  <title>Sample SVG</title>
-  <desc>A simple example of an SVG file structure.</desc>
-  <text x="-200" y="300" front-family="Verdana" front-size="65" fill="blue"> Hallo!@#$%_ </text>
-</svg>
-         
-    Complex shapes = 
-         <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-     version="1.1"
-     width="800mm" height="600mm"
-     viewBox="-400 -300 800 600">
-  <title>Complex shapes</title>
-  <desc>A simple example of an SVG file structure.</desc>
-<rect x="300" y="-200" width="398" height="398" fill="non" stroke="blue"/>
-<path d="M 100 300 L 200 100 L 100 200 z" stroke="blue" stroke-width="10"  fill="red"/>
-</svg>
 
+<img width="420" alt="straight line" src="https://github.com/user-attachments/assets/ebc17f3f-3224-4302-9e9c-2a5f94d4c1e0" />
 
-    Rectangles     = 
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-     version="1.1"
-     width="800mm" height="600mm"
-     viewBox="-400 -300 800 600">
-  <title>Rectangles</title>
-  <desc>A simple example of an SVG file structure.</desc>
-  <rect x="0" y="0" width="20" height="100" fill="red" />
-</svg>
+<img width="443" alt="circle" src="https://github.com/user-attachments/assets/e91614b4-285e-46ab-b24d-fa4008cadb0c" />
 
+<img width="460" alt="rectangle" src="https://github.com/user-attachments/assets/10bc88bc-26db-45b5-b37c-658db7b2e251" />
 
-    Circile        = 
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-     version="1.1"
-     width="800mm" height="600mm"
-     viewBox="-400 -300 800 600">
-  <title>Rectangles</title>
-  <desc>A simple example of an SVG file structure.</desc>
-  <circle cx="0" cy="0" r="100" fill="red" />
-</svg>
-
-
-
-
-
-    </code>
 </details>
 
 ### Task 2: Markdown
